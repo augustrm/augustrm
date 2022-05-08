@@ -1,6 +1,6 @@
 - Hi, I’m @augustrm
 - I’m interested in Data Science, High-speed computing, Steganography, and Automating the boring stuff
-- I’m currently learning VBA/VBS, Qt6, Scala
+- I’m currently learning Rust, Scala
 - I’m looking to collaborate on Python projects, Math-heavy projects
 
 <!---
